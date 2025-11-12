@@ -89,7 +89,7 @@ Both cities exhibit a gradual warming trend and reduced precipitation, suggestin
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-forecasting.git
+   git clone https://github.com/fdx-hw/Weather-Trend-Forecasting.git
    cd weather-forecasting
 2. Open the Jupyter Notebook
 3. Run all the cells in order
