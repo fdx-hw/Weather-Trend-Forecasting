@@ -92,3 +92,5 @@ Both cities exhibit a gradual warming trend and reduced precipitation, suggestin
    git clone https://github.com/yourusername/weather-forecasting.git
    cd weather-forecasting
 2. Open the Jupyter Notebook
+3. Run all the cells in order
+4. Modify the city variable (e.g., "Bangkok", "Abu Dhabi") to run city-specific forecasts.
